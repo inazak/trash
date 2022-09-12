@@ -1,0 +1,3 @@
+# reversi
+
+reversi in golang
